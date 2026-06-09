@@ -1,0 +1,43 @@
+* {
+    margin: 3%;
+    padding: 10%;
+    box-sizing: border-box;
+}
+
+
+
+.body-index {
+    background-image: url(assets/background-REAL.jpg.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+}
+
+
+h1 {
+    text-align: center;
+    color: rgb(255, 217, 0);
+    margin: 10px 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(255, 213, 25);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    text-align: center;
+    color: rgb(255, 181, 20);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+    text-align: center;
+    margin: 3%;
+}
