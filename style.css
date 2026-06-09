@@ -1,0 +1,37 @@
+* {
+    margin: 3%;
+    padding: 10%;
+    box-sizing: border-box;
+}
+
+
+.body-index {
+    background-image: url(assets/background-ManchesterCity.jpg.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+}
+
+
+h1 {
+    text-align: center;
+    margin: 10px 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+p {
+    text-align: center;
+    color: rgb(28, 240, 255);
+    font-family: Arial, Helvetica, sans-serif
+    ;
+}
+
+nav {
+    text-align: center;
+    margin: auto;
+}
